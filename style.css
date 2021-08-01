@@ -2,7 +2,6 @@ body{
 margin: 0;
 padding: 0;
 font-family: sans-serif;
-border-color:black;
 }
 main{
 margin: 5vh 15%;
@@ -11,7 +10,7 @@ h1{
 font-size: 40px;
 font-weight: 400;
 text-align: center;
-border-bottom:3px solid black;
+border-bottom:3px solid;
 padding-bottom:20px;
 }
 img{
